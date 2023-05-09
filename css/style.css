@@ -1,0 +1,105 @@
+.customers{
+    max-width: 1170px;
+
+ display: flex;
+  flex-direction: column;
+  align-items: center;
+margin-bottom: 30px;
+padding: 20px;
+padding-left: 30px;
+
+}
+.customers-titel-main {
+    font-family: "Raleway" ;
+font-weight: 400;
+font-size: 24px;
+height: 28px;
+color: #FFFFFF;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+padding: 50px;
+margin-bottom: 70px;
+line-height: 42px;
+
+}
+
+.customers-subtitel {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Raleway", sans-serif;
+    color: #86878b;
+    margin-bottom: 83px;
+   
+}
+.Daviscomment{
+    
+      display: flex;
+    align-items: center;
+    max-width: 250px;
+    width: 100%;
+    height: 180px;
+    background-color: #e2e2e2;
+    border-radius: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 0 15px;
+    margin-bottom: 66px;
+    display: inline-block;
+}
+.Jaydencomment{
+     display: flex;
+    align-items: center;
+    max-width: 250px;
+    width: 100%;
+    height: 180px;
+    background-color: #e2e2e2;
+    border-radius: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 0 15px;
+    margin-bottom: 66px;
+    display: inline-block;
+}
+
+.coopercomment{
+    display: flex;
+    align-items: center;
+    max-width: 250px;
+    width: 100%;
+    height: 180px;
+    background-color: #e2e2e2;
+    border-radius: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 0 15px;
+    margin-bottom: 50px;
+    display: inline-block;
+}
+.allmanagers{
+    margin-bottom: 80px;
+    display: flex;
+  justify-content: space-between;
+
+}
+.every-manager-item {
+    display: flex;
+ 
+}
+.manager__ber{
+
+  position: relative;
+}
+.manager-img{
+    max-width: 70px;   
+}
+.manager-name{
+    font-size: 14px;
+    font-weight: 500;
+    font-family: "Open-Sans", sans-serif;
+    color: #000;
+    padding-top: 10px;
+
+}
+
+
